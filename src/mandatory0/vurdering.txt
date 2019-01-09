@@ -1,0 +1,11 @@
+"Score: 94.0178571428571/100
+  Submission: 30/30 Good
+  RevPolish: 10/10
+  Big-O: 12.7678571428571/15
+    15/24 exact, 20/24 ~approximations, 22/24 big-O's
+  Union Find: 11.25/15
+    QuickFind: 5/5
+    FakeboolUF: 5/5
+    c and d: 1.25/5
+  SortableLinkedList: 30/30 "
+Andre Berge , Sep 29, 2018 at 12:51pm
