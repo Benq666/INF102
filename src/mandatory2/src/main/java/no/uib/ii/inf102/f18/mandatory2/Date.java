@@ -40,4 +40,3 @@ public final class Date {
         return Objects.hash(year, month, day);
     }
 }
-

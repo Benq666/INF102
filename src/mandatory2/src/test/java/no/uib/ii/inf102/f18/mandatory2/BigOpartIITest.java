@@ -53,5 +53,4 @@ n = 5, m = 2, steps = 31, logn = 2, fact = 0
 n = 5, m = 3, steps = 121, logn = 2, fact = 0
 n = 5, m = 4, steps = 341, logn = 2, fact = 0
 n = 5, m = 5, steps = 781, logn = 2, fact = 0
-
  */
