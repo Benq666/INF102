@@ -23,7 +23,7 @@ package mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0;
  * Output a single line with the infix notation.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class RevPolishToInfix {

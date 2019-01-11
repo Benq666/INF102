@@ -25,7 +25,7 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
  * to the internet.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class WheresMyInternet {

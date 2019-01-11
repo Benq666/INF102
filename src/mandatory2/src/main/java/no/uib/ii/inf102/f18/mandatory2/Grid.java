@@ -24,7 +24,7 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
  * the top-left corner of the grid to the bottom-right. If it isn’t possible, output -1.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class Grid {

@@ -2,6 +2,9 @@ package mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0;
 
 import java.util.Iterator;
 
+/**
+ * @author Andrey Belinskiy
+ */
 @SuppressWarnings({"rawtypes"})
 public class SortableLinkedList<E extends Comparable<E>> implements ISortableList<E> {
     private Node head, tail;

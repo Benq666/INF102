@@ -3,6 +3,8 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
 /**
  * A directed graph where vertices are represented by
  * integers that represent strings via hashing
+ *
+ * @author Andrey Belinskiy
  */
 public class SymbolDirGraph {
     private ChainHashTable<String, Integer> hashTable;

@@ -30,7 +30,7 @@ package mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0;
  * quick-find implementation, since you decided that your union operation will always retain the lower number.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class FakeBoolQuickFind {

@@ -20,7 +20,7 @@ package mandatory1.src.main.java.no.uib.ii.inf102.f18.mandatory1;
  * There is no guarantee that the search tree is balanced, or that the search key exists in the tree.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class BSTDebugging {

@@ -7,6 +7,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class BSTSanityTest {
     private BinarySearchTree<String, String> bst;
     private String[] string = new String[] {"A", "B", "C", "D", "X", "Y", "Z"};

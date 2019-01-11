@@ -9,6 +9,9 @@ import org.junit.jupiter.api.Test;
 
 import java.util.SplittableRandom;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class IndexMinPQTest {
     private String[] str = { "A", "horrible", "man", "ate", "my", "bike",
             "and", "then", "looked", "at", "me" };

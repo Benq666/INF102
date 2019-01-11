@@ -30,8 +30,8 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
  * one flight. You may assume that there is a route on which Peter can reach his destination.
  *
  *
- * Solved (almost) by Andrey Belinskiy
- * (currently passes only 22 out of 25 test cases)
+ * @author Andrey Belinskiy
+ * (almost solved, currently passes only 22 out of 25 test cases)
  *
  */
 public class Bumped {

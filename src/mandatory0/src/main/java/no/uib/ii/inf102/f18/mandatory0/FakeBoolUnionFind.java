@@ -36,7 +36,7 @@ package mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0;
  * the individual managing the account ℓi.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class FakeBoolUnionFind {

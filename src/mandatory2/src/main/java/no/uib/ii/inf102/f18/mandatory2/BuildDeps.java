@@ -25,7 +25,7 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
  * If there are multiple valid answers you may output any of them.
  *
  *
- * Solved by Andrey Belinskiy
+ * @author Andrey Belinskiy
  *
  */
 public class BuildDeps {

@@ -8,6 +8,9 @@ import mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0.SortableLinkedLi
 
 import java.util.Arrays;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class SortableLinkedListTest extends TestCase {
     private ISortableList<String> ll;
     private String s1 = "0", s2 = "1", s3 = "2", s4 = "3";

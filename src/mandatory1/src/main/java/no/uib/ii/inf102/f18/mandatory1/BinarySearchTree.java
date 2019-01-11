@@ -1,5 +1,8 @@
 package mandatory1.src.main.java.no.uib.ii.inf102.f18.mandatory1;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class BinarySearchTree<Key extends Comparable<Key>, Value> implements ISymTable<Key, Value> {
     private Node root;
 

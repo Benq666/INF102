@@ -1,5 +1,8 @@
 package mandatory0.src.main.java.no.uib.ii.inf102.f18.mandatory0;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class MyQuickFindUF implements IUnionFind {
     private int[] id;
 

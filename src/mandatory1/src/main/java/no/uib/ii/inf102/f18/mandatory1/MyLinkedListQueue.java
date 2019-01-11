@@ -2,6 +2,9 @@ package mandatory1.src.main.java.no.uib.ii.inf102.f18.mandatory1;
 
 import java.util.Iterator;
 
+/**
+ * @author Andrey Belinskiy
+ */
 public class MyLinkedListQueue<E> implements IQueue<E> {
     private Node first, last;
     private int size;

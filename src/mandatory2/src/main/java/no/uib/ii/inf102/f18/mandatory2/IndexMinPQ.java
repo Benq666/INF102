@@ -2,6 +2,9 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
 
 //import java.util.Iterator;
 
+/**
+ * @author Andrey Belinskiy
+ */
 @SuppressWarnings("unchecked")
 public class IndexMinPQ<Key extends Comparable<Key>> implements IIndexPQ<Key> {
     private int size;

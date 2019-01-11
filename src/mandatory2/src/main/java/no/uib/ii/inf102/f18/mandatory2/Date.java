@@ -3,7 +3,7 @@ package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
 import java.util.Objects;
 
 /**
- * @author Me
+ * @author Andrey Belinskiy
  */
 public final class Date {
     final Month month;

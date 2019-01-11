@@ -11,6 +11,8 @@ import org.junit.jupiter.api.Test;
 
 /**
  * Unit test
+ *
+ * @author Andrey Belinskiy
  */
 class UnorderedIndexMaxPQTest {
 	

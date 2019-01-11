@@ -1,5 +1,8 @@
 package mandatory2.src.main.java.no.uib.ii.inf102.f18.mandatory2;
 
+/**
+ * @author Andrey Belinskiy
+ */
 @SuppressWarnings("unchecked")
 public class MyAdjListGraph implements IGraph {
     private ISortableList<Integer>[] adjList;
